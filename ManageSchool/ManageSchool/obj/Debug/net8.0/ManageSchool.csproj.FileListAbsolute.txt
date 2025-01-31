@@ -1,0 +1,14 @@
+E:\vs c#\ManageSchool\ManageSchool\obj\Debug\net8.0\ManageSchool.GeneratedMSBuildEditorConfig.editorconfig
+E:\vs c#\ManageSchool\ManageSchool\obj\Debug\net8.0\ManageSchool.AssemblyInfoInputs.cache
+E:\vs c#\ManageSchool\ManageSchool\obj\Debug\net8.0\ManageSchool.AssemblyInfo.cs
+E:\vs c#\ManageSchool\ManageSchool\obj\Debug\net8.0\ManageSchool.csproj.CoreCompileInputs.cache
+E:\vs c#\ManageSchool\ManageSchool\bin\Debug\net8.0\ManageSchool.exe
+E:\vs c#\ManageSchool\ManageSchool\bin\Debug\net8.0\ManageSchool.deps.json
+E:\vs c#\ManageSchool\ManageSchool\bin\Debug\net8.0\ManageSchool.runtimeconfig.json
+E:\vs c#\ManageSchool\ManageSchool\bin\Debug\net8.0\ManageSchool.dll
+E:\vs c#\ManageSchool\ManageSchool\bin\Debug\net8.0\ManageSchool.pdb
+E:\vs c#\ManageSchool\ManageSchool\obj\Debug\net8.0\ManageSchool.dll
+E:\vs c#\ManageSchool\ManageSchool\obj\Debug\net8.0\refint\ManageSchool.dll
+E:\vs c#\ManageSchool\ManageSchool\obj\Debug\net8.0\ManageSchool.pdb
+E:\vs c#\ManageSchool\ManageSchool\obj\Debug\net8.0\ManageSchool.genruntimeconfig.cache
+E:\vs c#\ManageSchool\ManageSchool\obj\Debug\net8.0\ref\ManageSchool.dll
